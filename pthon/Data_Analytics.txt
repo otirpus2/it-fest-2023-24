@@ -1,0 +1,2 @@
+api_key = AIzaSyBIEhvV-pgDuC8Rhyra5a_pOeTSct4TCgI
+Channel_ID = UCOdC7uoP47tCuEneMwoEJTQ
